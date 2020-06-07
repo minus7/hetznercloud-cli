@@ -9,6 +9,7 @@ require (
 	github.com/spf13/cobra v0.0.7
 	github.com/spf13/pflag v1.0.5
 	golang.org/x/crypto v0.0.0-20200406173513-056763e48d71
+	golang.org/x/net v0.0.0-20190522155817-f3200d17e092
 )
 
 go 1.14
